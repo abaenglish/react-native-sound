@@ -54,5 +54,5 @@ repositories {
 }
 
 dependencies {
-  compileOnly 'com.facebook.react:react-native:+'
+  compileOnly 'com.facebook.react:react-native:0.67.4'
 }
